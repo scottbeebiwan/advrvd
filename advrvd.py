@@ -22,7 +22,7 @@ def download(url:str, name:str=""):
     return name
 
 version = 1
-print('== RVDP v'+str(version)+": Roblox Version Downloader Python ==")
+print('== AdvRVD v'+str(version)+": Advanced Roblox Version Downloader ==")
 print('ScottBeebiWan 2018')
 print()
 
